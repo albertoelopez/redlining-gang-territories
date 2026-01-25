@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Chicago - Grade A (Best) - HOLC 1939</name>
+    <description>HOLC redlining map areas graded "A" (Best) in Chicago, 1939</description>
+    <Style id="gradeAStyle">
+      <PolyStyle>
+        <color>7f00ff00</color>
+        <outline>1</outline>
+      </PolyStyle>
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1</width>
+      </LineStyle>
+    </Style>
+    <Placemark>
+      <name>A1</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.83054,42.25361,0 -87.82979,42.25384,0 -87.82866,42.25518,0 -87.8272,42.25557,0 -87.82647,42.25557,0 -87.82534,42.25546,0 -87.82475,42.25554,0 -87.82449,42.25589,0 -87.82391,42.25595,0 -87.82338,42.25613,0 -87.82295,42.25675,0 -87.82251,42.25714,0 -87.82178,42.2574,0 -87.82236,42.25854,0 -87.82292,42.25917,0 -87.82373,42.26094,0 -87.82437,42.26182,0 -87.82516,42.26311,0 -87.82568,42.26471,0 -87.82653,42.26609,0 -87.82752,42.2673,0 -87.82898,42.26706,0 -87.82979,42.26725,0 -87.83008,42.26689,0 -87.83032,42.26648,0 -87.83078,42.26626,0 -87.8314,42.26635,0 -87.83195,42.26639,0 -87.83239,42.26639,0 -87.83303,42.26624,0 -87.83326,42.26594,0 -87.83357,42.26538,0 -87.83371,42.26204,0 -87.83412,42.26118,0 -87.83479,42.26005,0 -87.83485,42.25967,0 -87.83461,42.25926,0 -87.83351,42.25971,0 -87.8326,42.26001,0 -87.83147,42.26012,0 -87.831,42.26001,0 -87.83077,42.25951,0 -87.83097,42.25647,0 -87.83121,42.25591,0 -87.8315,42.25548,0 -87.83185,42.25531,0 -87.83054,42.25361,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A10</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.76217,42.12934,0 -87.76233,42.13023,0 -87.76274,42.13059,0 -87.76377,42.13041,0 -87.76512,42.13122,0 -87.76298,42.13226,0 -87.76469,42.1342,0 -87.76587,42.13508,0 -87.76759,42.13446,0 -87.76866,42.13606,0 -87.76952,42.13579,0 -87.77,42.13619,0 -87.77045,42.13694,0 -87.771,42.13741,0 -87.77168,42.13762,0 -87.77233,42.13775,0 -87.77286,42.13773,0 -87.77347,42.13765,0 -87.77509,42.1377,0 -87.77511,42.13417,0 -87.77384,42.13436,0 -87.7729,42.13427,0 -87.7719,42.13405,0 -87.77072,42.1336,0 -87.76969,42.13303,0 -87.76893,42.13205,0 -87.76851,42.13111,0 -87.76805,42.13015,0 -87.76794,42.12961,0 -87.76796,42.12819,0 -87.76209,42.12809,0 -87.76217,42.12934,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A11</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.75082,42.13867,0 -87.75053,42.13846,0 -87.75011,42.13845,0 -87.74948,42.13874,0 -87.75031,42.13978,0 -87.75186,42.14102,0 -87.75249,42.14175,0 -87.75339,42.14311,0 -87.75391,42.14378,0 -87.75452,42.14383,0 -87.75525,42.14371,0 -87.75598,42.1433,0 -87.75471,42.14186,0 -87.75397,42.13951,0 -87.75294,42.14006,0 -87.75284,42.14042,0 -87.75082,42.13867,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A12</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.74436,42.12695,0 -87.74135,42.128,0 -87.74277,42.13041,0 -87.74349,42.13086,0 -87.74406,42.13175,0 -87.74487,42.13271,0 -87.74648,42.13501,0 -87.74744,42.13538,0 -87.74786,42.13574,0 -87.74841,42.13705,0 -87.74948,42.13874,0 -87.75011,42.13845,0 -87.75053,42.13846,0 -87.75082,42.13867,0 -87.7515,42.13771,0 -87.75019,42.13549,0 -87.74763,42.13358,0 -87.74691,42.1328,0 -87.74635,42.13208,0 -87.74639,42.13149,0 -87.74718,42.13008,0 -87.74617,42.12929,0 -87.74436,42.12695,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A13</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.75566,42.1241,0 -87.75791,42.1242,0 -87.75789,42.1265,0 -87.75918,42.12645,0 -87.75935,42.12916,0 -87.76061,42.12924,0 -87.76066,42.12547,0 -87.76145,42.12547,0 -87.76282,42.12563,0 -87.76221,42.12415,0 -87.76068,42.12424,0 -87.7609,42.12214,0 -87.75585,42.12185,0 -87.75585,42.12294,0 -87.75347,42.12283,0 -87.75356,42.12378,0 -87.75566,42.1241,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A14</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.74152,42.12151,0 -87.74139,42.12272,0 -87.74209,42.12318,0 -87.74301,42.12392,0 -87.74371,42.12365,0 -87.74425,42.12365,0 -87.74506,42.12323,0 -87.74443,42.12213,0 -87.7436,42.12143,0 -87.74277,42.12144,0 -87.74152,42.12151,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A15</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.74614,42.10725,0 -87.74586,42.10857,0 -87.74392,42.10852,0 -87.74396,42.10947,0 -87.74151,42.10947,0 -87.74151,42.11151,0 -87.74361,42.11157,0 -87.74349,42.11235,0 -87.74466,42.11244,0 -87.74516,42.11336,0 -87.74792,42.1127,0 -87.74823,42.11396,0 -87.74924,42.11333,0 -87.74951,42.11411,0 -87.75013,42.11408,0 -87.75029,42.11572,0 -87.76117,42.11604,0 -87.76128,42.11486,0 -87.75612,42.1146,0 -87.756,42.11082,0 -87.75149,42.11076,0 -87.75161,42.10125,0 -87.74645,42.10117,0 -87.74614,42.10725,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A16</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.71111,42.09592,0 -87.71102,42.09604,0 -87.71301,42.09771,0 -87.71658,42.10088,0 -87.72093,42.1048,0 -87.72369,42.10768,0 -87.72481,42.10866,0 -87.72551,42.10909,0 -87.72598,42.10953,0 -87.7266,42.11042,0 -87.72687,42.11065,0 -87.72761,42.11146,0 -87.72858,42.11278,0 -87.72905,42.11316,0 -87.7299,42.11365,0 -87.73049,42.11445,0 -87.73173,42.11604,0 -87.73286,42.11745,0 -87.73336,42.11759,0 -87.73387,42.11817,0 -87.73627,42.12082,0 -87.73725,42.12255,0 -87.73864,42.12439,0 -87.73985,42.12581,0 -87.74055,42.12699,0 -87.74135,42.128,0 -87.74436,42.12695,0 -87.74405,42.12655,0 -87.74316,42.12545,0 -87.74296,42.12485,0 -87.74301,42.12422,0 -87.74301,42.12392,0 -87.74209,42.12318,0 -87.74139,42.12272,0 -87.73904,42.12214,0 -87.73873,42.1216,0 -87.73816,42.12086,0 -87.73779,42.12068,0 -87.73781,42.11972,0 -87.7379,42.11933,0 -87.73753,42.1186,0 -87.73681,42.11791,0 -87.73548,42.11659,0 -87.73486,42.11643,0 -87.73423,42.11607,0 -87.72702,42.10774,0 -87.72503,42.10581,0 -87.71506,42.09693,0 -87.71603,42.09615,0 -87.71451,42.09347,0 -87.71328,42.09367,0 -87.71285,42.09385,0 -87.71211,42.09442,0 -87.71111,42.09592,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A17</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.73666,42.10094,0 -87.73775,42.10105,0 -87.73775,42.1005,0 -87.73915,42.10048,0 -87.73923,42.10091,0 -87.74313,42.10105,0 -87.7463,42.09733,0 -87.75142,42.09745,0 -87.75146,42.09379,0 -87.73643,42.09379,0 -87.73445,42.09339,0 -87.73447,42.09491,0 -87.73507,42.09497,0 -87.73515,42.09725,0 -87.73651,42.09728,0 -87.73666,42.10094,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A18</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.72262,42.09137,0 -87.72361,42.09215,0 -87.72629,42.09206,0 -87.72468,42.08794,0 -87.72401,42.08624,0 -87.72098,42.08641,0 -87.72083,42.08808,0 -87.7211,42.08877,0 -87.72269,42.08872,0 -87.72262,42.09137,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A19</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.71641,42.08487,0 -87.71741,42.08652,0 -87.72098,42.08641,0 -87.72401,42.08624,0 -87.72281,42.08243,0 -87.71776,42.08232,0 -87.7178,42.08301,0 -87.7178,42.08373,0 -87.71776,42.08407,0 -87.71757,42.08451,0 -87.71702,42.08474,0 -87.71641,42.08487,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A2</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.83398,42.23625,0 -87.83309,42.23637,0 -87.83233,42.23626,0 -87.83099,42.23605,0 -87.82947,42.23605,0 -87.82767,42.236,0 -87.82583,42.23592,0 -87.82531,42.23594,0 -87.82501,42.23613,0 -87.82458,42.23654,0 -87.82434,42.23702,0 -87.82437,42.23762,0 -87.82449,42.23816,0 -87.82519,42.23857,0 -87.82583,42.239,0 -87.82633,42.23954,0 -87.82697,42.24012,0 -87.82692,42.24045,0 -87.83002,42.24042,0 -87.83356,42.24019,0 -87.83343,42.23911,0 -87.8335,42.23855,0 -87.8337,42.23809,0 -87.83384,42.23666,0 -87.83398,42.23625,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A20</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.70972,42.08592,0 -87.70304,42.08583,0 -87.70319,42.09019,0 -87.71111,42.09592,0 -87.71211,42.09442,0 -87.70929,42.09264,0 -87.71143,42.09079,0 -87.70871,42.08915,0 -87.70956,42.08823,0 -87.70859,42.08739,0 -87.70972,42.08592,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A21</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.73226,42.08321,0 -87.7383,42.08321,0 -87.7388,42.08353,0 -87.739,42.08396,0 -87.73946,42.08462,0 -87.74405,42.0852,0 -87.74525,42.08552,0 -87.74708,42.08554,0 -87.7491,42.08514,0 -87.75178,42.08477,0 -87.75162,42.07949,0 -87.73605,42.07919,0 -87.73235,42.07911,0 -87.73232,42.08039,0 -87.73229,42.08162,0 -87.73226,42.08321,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A22</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.72401,42.08624,0 -87.72468,42.08794,0 -87.73217,42.08782,0 -87.73226,42.08321,0 -87.73229,42.08162,0 -87.72269,42.08131,0 -87.72281,42.08243,0 -87.72401,42.08624,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A23</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.70972,42.08592,0 -87.71205,42.08595,0 -87.71263,42.08575,0 -87.71271,42.08494,0 -87.71267,42.08249,0 -87.70209,42.08275,0 -87.70213,42.08566,0 -87.70304,42.08583,0 -87.70972,42.08592,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A24</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.68933,42.07551,0 -87.68925,42.07312,0 -87.68661,42.07303,0 -87.6861,42.07436,0 -87.68474,42.07638,0 -87.69046,42.08033,0 -87.68859,42.08142,0 -87.69135,42.08324,0 -87.69461,42.08477,0 -87.69531,42.08552,0 -87.69725,42.08526,0 -87.6971,42.08379,0 -87.68933,42.07753,0 -87.68933,42.07551,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A25</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.71502,42.06891,0 -87.72037,42.06891,0 -87.72391,42.06891,0 -87.72607,42.06633,0 -87.72749,42.06469,0 -87.72672,42.06465,0 -87.72672,42.06434,0 -87.72434,42.06435,0 -87.72426,42.06466,0 -87.72314,42.0646,0 -87.72312,42.06666,0 -87.71986,42.06664,0 -87.71993,42.06748,0 -87.71982,42.06773,0 -87.71805,42.06774,0 -87.71783,42.06758,0 -87.71781,42.06351,0 -87.72181,42.06362,0 -87.72187,42.06273,0 -87.72115,42.06231,0 -87.72124,42.05885,0 -87.72076,42.05881,0 -87.72111,42.05507,0 -87.72018,42.05508,0 -87.71534,42.05512,0 -87.71532,42.05733,0 -87.7137,42.05731,0 -87.71372,42.05824,0 -87.71344,42.05834,0 -87.71062,42.05822,0 -87.71062,42.05916,0 -87.71272,42.05916,0 -87.71263,42.06059,0 -87.70842,42.06059,0 -87.70729,42.06059,0 -87.70727,42.06241,0 -87.71561,42.06229,0 -87.71557,42.06416,0 -87.71498,42.06413,0 -87.71502,42.06891,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A26</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.68173,42.07244,0 -87.68176,42.06749,0 -87.67896,42.06736,0 -87.6771,42.0639,0 -87.67692,42.06288,0 -87.67491,42.06282,0 -87.67494,42.06364,0 -87.67978,42.07249,0 -87.68173,42.07244,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A27</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.75751,41.9995,0 -87.75591,42.00112,0 -87.75255,41.99956,0 -87.75283,42.00443,0 -87.75816,42.00438,0 -87.76164,42.00435,0 -87.76156,42.00277,0 -87.76149,42.00138,0 -87.75751,41.9995,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A28</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.75251,41.99056,0 -87.74828,41.98852,0 -87.74834,41.99057,0 -87.75109,41.99045,0 -87.75245,41.99117,0 -87.75058,41.99366,0 -87.74839,41.99256,0 -87.74841,41.99337,0 -87.7481,41.99712,0 -87.75272,41.99706,0 -87.75751,41.9995,0 -87.76149,42.00138,0 -87.76156,42.00277,0 -87.76504,42.0044,0 -87.76589,42.0033,0 -87.76939,42.00483,0 -87.77145,42.0093,0 -87.7744,42.00792,0 -87.77486,42.00835,0 -87.77397,42.00873,0 -87.77397,42.0117,0 -87.77758,42.01167,0 -87.77723,42.01109,0 -87.77809,42.01072,0 -87.77852,42.01057,0 -87.77921,42.01043,0 -87.77828,42.00904,0 -87.77673,42.00959,0 -87.7763,42.00988,0 -87.77587,42.00922,0 -87.77572,42.00873,0 -87.77595,42.00818,0 -87.7756,42.00774,0 -87.77514,42.00748,0 -87.78057,42.00497,0 -87.78092,42.00489,0 -87.78275,42.0067,0 -87.78287,42.0072,0 -87.78267,42.0074,0 -87.78306,42.00789,0 -87.78015,42.00916,0 -87.78112,42.01031,0 -87.78252,42.01034,0 -87.78256,42.01161,0 -87.78885,42.01167,0 -87.78333,42.00451,0 -87.76673,41.9973,0 -87.76426,41.99623,0 -87.76371,41.99599,0 -87.756,41.99225,0 -87.75251,41.99056,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A29</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.74828,41.98852,0 -87.74822,41.98589,0 -87.74798,41.98546,0 -87.74717,41.9858,0 -87.74359,41.98407,0 -87.74332,41.98384,0 -87.74324,41.98242,0 -87.73784,41.98248,0 -87.73804,41.98999,0 -87.73707,41.99002,0 -87.73765,41.99195,0 -87.73901,41.99695,0 -87.7481,41.99712,0 -87.74534,41.99562,0 -87.7467,41.99426,0 -87.74573,41.99363,0 -87.74655,41.99279,0 -87.74841,41.99337,0 -87.74839,41.99256,0 -87.74834,41.9906,0 -87.74834,41.99057,0 -87.74828,41.98852,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A3</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.79831,42.17657,0 -87.79785,42.17678,0 -87.79802,42.17719,0 -87.79869,42.17767,0 -87.79878,42.17812,0 -87.79913,42.17905,0 -87.7993,42.17959,0 -87.79986,42.17987,0 -87.80056,42.17996,0 -87.80367,42.18011,0 -87.80501,42.1798,0 -87.80504,42.17328,0 -87.79948,42.17307,0 -87.7991,42.17633,0 -87.79831,42.17657,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A30</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.63933,41.94013,0 -87.63938,41.94135,0 -87.63969,41.94232,0 -87.64204,41.94654,0 -87.64461,41.95261,0 -87.64558,41.95612,0 -87.6461,41.95618,0 -87.64648,41.95589,0 -87.64634,41.95259,0 -87.64304,41.94649,0 -87.64073,41.94179,0 -87.64016,41.94015,0 -87.63933,41.94013,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A31</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.8169,41.91602,0 -87.81732,41.92123,0 -87.82101,41.92114,0 -87.82093,41.91301,0 -87.82536,41.91304,0 -87.82521,41.90815,0 -87.81654,41.90841,0 -87.8169,41.91602,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A32</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.80543,41.90506,0 -87.80578,41.90876,0 -87.81654,41.90841,0 -87.82521,41.90815,0 -87.82552,41.90327,0 -87.82469,41.90328,0 -87.82043,41.90332,0 -87.82035,41.90144,0 -87.81429,41.90161,0 -87.81201,41.90167,0 -87.80986,41.90173,0 -87.81021,41.90488,0 -87.80543,41.90506,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A33</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.82083,41.90152,0 -87.82077,41.89745,0 -87.81904,41.89736,0 -87.81901,41.89515,0 -87.81518,41.89519,0 -87.81524,41.89762,0 -87.81414,41.89765,0 -87.81429,41.90161,0 -87.82035,41.90144,0 -87.82083,41.90152,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A34</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.61971,41.9007,0 -87.61897,41.90072,0 -87.61915,41.90092,0 -87.61959,41.90134,0 -87.62013,41.90136,0 -87.6215,41.90136,0 -87.62337,41.90158,0 -87.6239,41.90225,0 -87.62447,41.90355,0 -87.62595,41.91094,0 -87.62729,41.91094,0 -87.62616,41.90435,0 -87.6245,41.90057,0 -87.6234,41.9006,0 -87.61971,41.9007,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A35</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.67461,41.7299,0 -87.67194,41.72996,0 -87.67333,41.73129,0 -87.67333,41.73158,0 -87.67294,41.7324,0 -87.67208,41.73288,0 -87.6754,41.73544,0 -87.67657,41.73554,0 -87.67568,41.7345,0 -87.67811,41.734,0 -87.67796,41.73129,0 -87.68235,41.73118,0 -87.68238,41.72982,0 -87.67461,41.7299,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A36</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.67447,41.72111,0 -87.67461,41.7299,0 -87.68238,41.72982,0 -87.68233,41.72232,0 -87.6823,41.72104,0 -87.67447,41.72111,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A37</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.66811,41.72657,0 -87.66816,41.72687,0 -87.66891,41.72836,0 -87.67065,41.7278,0 -87.67087,41.72777,0 -87.67112,41.72809,0 -87.67076,41.72876,0 -87.67194,41.72996,0 -87.67461,41.7299,0 -87.67447,41.72111,0 -87.6734,41.72112,0 -87.66819,41.72115,0 -87.66784,41.72466,0 -87.66811,41.72657,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A38</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.97541,42.07729,0 -87.98047,42.07735,0 -87.98033,42.07188,0 -87.97081,42.07185,0 -87.9707,42.07732,0 -87.97541,42.07729,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A39</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-88.06125,41.8696,0 -88.06105,41.8685,0 -88.06087,41.86513,0 -88.05606,41.86559,0 -88.05367,41.86529,0 -88.05435,41.86759,0 -88.0564,41.86738,0 -88.05723,41.8697,0 -88.06125,41.8696,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A4</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.76747,42.16523,0 -87.77045,42.16843,0 -87.77284,42.17119,0 -87.77605,42.17588,0 -87.78197,42.18352,0 -87.78427,42.18656,0 -87.78567,42.18904,0 -87.78914,42.19351,0 -87.7912,42.19554,0 -87.79176,42.19658,0 -87.79307,42.19893,0 -87.7959,42.20247,0 -87.79735,42.20361,0 -87.79662,42.20243,0 -87.79659,42.20217,0 -87.79677,42.20176,0 -87.79729,42.20094,0 -87.79761,42.19835,0 -87.79732,42.19528,0 -87.79569,42.196,0 -87.79517,42.19615,0 -87.79467,42.19617,0 -87.794,42.19582,0 -87.79351,42.19522,0 -87.79231,42.19362,0 -87.791,42.1928,0 -87.78975,42.19215,0 -87.78937,42.19181,0 -87.78943,42.19142,0 -87.79051,42.19056,0 -87.78864,42.18784,0 -87.78966,42.18732,0 -87.7887,42.18609,0 -87.78765,42.18496,0 -87.7864,42.18417,0 -87.78608,42.18393,0 -87.78593,42.18337,0 -87.78587,42.18294,0 -87.78512,42.18183,0 -87.78399,42.18142,0 -87.78134,42.17788,0 -87.7814,42.17706,0 -87.78181,42.1765,0 -87.77726,42.17104,0 -87.77895,42.1683,0 -87.7782,42.16776,0 -87.77744,42.16776,0 -87.77674,42.16782,0 -87.77674,42.16551,0 -87.77266,42.16549,0 -87.77115,42.16506,0 -87.77085,42.1654,0 -87.76747,42.16523,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A40</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.95167,41.8937,0 -87.95101,41.8937,0 -87.95126,41.89789,0 -87.95891,41.89778,0 -87.95893,41.89368,0 -87.95167,41.8937,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A42</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.93583,41.88988,0 -87.93037,41.88982,0 -87.9305,41.896,0 -87.93269,41.89576,0 -87.93274,41.89452,0 -87.9359,41.89441,0 -87.93583,41.88988,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A43</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.91602,41.80205,0 -87.91595,41.79996,0 -87.91714,41.7995,0 -87.91709,41.79649,0 -87.92231,41.79646,0 -87.92198,41.7955,0 -87.92187,41.79086,0 -87.91748,41.79095,0 -87.91747,41.78965,0 -87.90797,41.78994,0 -87.90806,41.79727,0 -87.91036,41.79723,0 -87.91113,41.79789,0 -87.9126,41.79887,0 -87.91316,41.79953,0 -87.91335,41.80038,0 -87.91339,41.80144,0 -87.91363,41.80213,0 -87.91602,41.80205,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A44</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.90408,41.8044,0 -87.90543,41.80437,0 -87.90513,41.79869,0 -87.89793,41.79899,0 -87.8982,41.80456,0 -87.90408,41.8044,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A45</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.88062,41.81943,0 -87.8808,41.82673,0 -87.88252,41.82672,0 -87.88259,41.82535,0 -87.88319,41.82453,0 -87.88455,41.82391,0 -87.88488,41.82318,0 -87.8848,41.81931,0 -87.88449,41.81932,0 -87.88062,41.81943,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A46</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.8848,41.81931,0 -87.88906,41.81983,0 -87.88888,41.81345,0 -87.88884,41.81287,0 -87.88427,41.81398,0 -87.88449,41.81932,0 -87.8848,41.81931,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A47</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.8813,41.80479,0 -87.8815,41.81201,0 -87.88521,41.81197,0 -87.88872,41.81101,0 -87.88869,41.8107,0 -87.88849,41.80489,0 -87.88899,41.80487,0 -87.88889,41.80459,0 -87.88408,41.80472,0 -87.8813,41.80479,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A48</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.86926,41.80135,0 -87.86945,41.80507,0 -87.8732,41.80498,0 -87.8813,41.80479,0 -87.88408,41.80472,0 -87.88404,41.80293,0 -87.8791,41.80301,0 -87.87868,41.79385,0 -87.87374,41.79398,0 -87.87389,41.79766,0 -87.86909,41.79774,0 -87.86926,41.80135,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A49</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.66745,41.56438,0 -87.6654,41.56807,0 -87.67502,41.56807,0 -87.67499,41.56703,0 -87.6726,41.56712,0 -87.67258,41.56444,0 -87.67144,41.56442,0 -87.66745,41.56438,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A5</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.78512,42.18183,0 -87.78686,42.18173,0 -87.78756,42.18183,0 -87.78861,42.18209,0 -87.78946,42.18209,0 -87.79004,42.18173,0 -87.79042,42.18116,0 -87.79327,42.18116,0 -87.79026,42.17659,0 -87.78656,42.17328,0 -87.77895,42.1683,0 -87.77726,42.17104,0 -87.78181,42.1765,0 -87.7814,42.17706,0 -87.78134,42.17788,0 -87.78399,42.18142,0 -87.78512,42.18183,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A6</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.77977,42.15978,0 -87.78413,42.16,0 -87.77939,42.15436,0 -87.78106,42.15488,0 -87.78281,42.15522,0 -87.78371,42.15531,0 -87.7851,42.15508,0 -87.78619,42.15525,0 -87.78903,42.15513,0 -87.78988,42.15539,0 -87.78981,42.15254,0 -87.77178,42.15234,0 -87.77493,42.15594,0 -87.7799,42.15568,0 -87.77977,42.15978,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A7</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.76747,42.16523,0 -87.77085,42.1654,0 -87.77115,42.16506,0 -87.77266,42.16549,0 -87.77674,42.16551,0 -87.7764,42.16323,0 -87.77904,42.16337,0 -87.7771,42.15977,0 -87.77475,42.1596,0 -87.77483,42.15721,0 -87.77405,42.15632,0 -87.77292,42.15588,0 -87.77184,42.1556,0 -87.77075,42.15548,0 -87.76989,42.15554,0 -87.76982,42.15251,0 -87.76741,42.15228,0 -87.76236,42.1524,0 -87.75948,42.15185,0 -87.7601,42.15272,0 -87.76049,42.15364,0 -87.76107,42.15485,0 -87.76146,42.15554,0 -87.76193,42.15704,0 -87.76278,42.15822,0 -87.7636,42.15928,0 -87.76515,42.16095,0 -87.76628,42.16259,0 -87.76725,42.16449,0 -87.76747,42.16523,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A8</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.76737,42.14204,0 -87.76787,42.14209,0 -87.76828,42.14275,0 -87.77014,42.14359,0 -87.77307,42.14534,0 -87.77383,42.14534,0 -87.77482,42.1452,0 -87.77514,42.14486,0 -87.7751,42.13894,0 -87.77075,42.13825,0 -87.77038,42.13782,0 -87.76977,42.1376,0 -87.76911,42.13752,0 -87.76887,42.13755,0 -87.7685,42.13771,0 -87.7683,42.13792,0 -87.76806,42.13839,0 -87.76767,42.13902,0 -87.7671,42.13954,0 -87.76686,42.13982,0 -87.76737,42.14204,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>A9</name>
+      <description>HOLC Grade: A (Best)</description>
+      <styleUrl>#gradeAStyle</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-87.75721,42.14288,0 -87.75964,42.14493,0 -87.76199,42.14497,0 -87.76225,42.14202,0 -87.76162,42.14157,0 -87.76096,42.14133,0 -87.75967,42.14118,0 -87.75764,42.14113,0 -87.7557,42.14118,0 -87.75576,42.14165,0 -87.75616,42.14198,0 -87.75721,42.14288,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
