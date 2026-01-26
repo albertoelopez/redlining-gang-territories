@@ -1,0 +1,19 @@
+{
+  "name": "chrome-automation-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for automating Chrome browser via DevTools Protocol",
+  "main": "index.js",
+  "bin": {
+    "chrome-automation-mcp": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.25.3",
+    "puppeteer-core": "^24.36.0"
+  }
+}

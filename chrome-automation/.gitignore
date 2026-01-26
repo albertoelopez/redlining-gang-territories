@@ -1,0 +1,24 @@
+# Node
+node_modules/
+
+# Screenshots
+*.png
+
+# Large generated KML files (can be regenerated)
+*_extracted/
+la_gangs_*.kml
+la_south_*.kml
+la_all_grades.kml
+la_core_*.kml
+
+# Keep source gang territory files
+!la_gang_territories.kml
+!chicago_gang_territories.kml
+!detroit_gang_territories.kml
+
+# KMZ archives (extracted KML is used)
+*.kmz
+
+# Temp/debug files
+debug*.js
+debug*.png
