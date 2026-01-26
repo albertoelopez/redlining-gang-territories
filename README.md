@@ -20,7 +20,8 @@ This practice, known as "redlining," systematically denied mortgage loans and in
 ## Data Sources
 
 - **Redlining Data**: [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/map#loc=3/41.2448/-105.4688) - University of Richmond
-- **Gang Territory Maps**: Various Google My Maps sources
+- **Gang Territory Maps**:
+  - [Los Angeles](https://www.google.com/maps/d/u/0/viewer?mid=1ul5yqMj7_JgM5xpfOn5gtlO-bTk&hl=en_US&ll=34.09128820549505%2C-118.40766917964874&z=9) - Gangs of Los Angeles (2026)
 
 ## Cities Covered
 
