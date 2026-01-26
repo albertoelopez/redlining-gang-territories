@@ -19,7 +19,7 @@ This practice, known as "redlining," systematically denied mortgage loans and in
 
 ## Data Sources
 
-- **Redlining Data**: [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/) - University of Richmond
+- **Redlining Data**: [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/map#loc=3/41.2448/-105.4688) - University of Richmond
 - **Gang Territory Maps**: Various Google My Maps sources
 
 ## Cities Covered
