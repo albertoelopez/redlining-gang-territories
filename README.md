@@ -1,6 +1,6 @@
 # Redlining & Gang Territories Mapping Project
 
-![Redlining and Gang Territories Hero Banner](./hero_banner.png)
+![Redlining and Gang Territories Hero Banner](./hero_repo_banner.png)
 
 A study of the correlation between historical HOLC redlining maps (1935-1940) and modern gang territories in major US cities.
 
