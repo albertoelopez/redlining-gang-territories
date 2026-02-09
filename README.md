@@ -1,10 +1,26 @@
 # Redlining & Gang Territories Mapping Project
 
+![Redlining and Gang Territories Hero Banner](./hero_banner.png)
+
 A study of the correlation between historical HOLC redlining maps (1935-1940) and modern gang territories in major US cities.
 
 ## Live Maps
 
-- **Los Angeles**: [View Map](https://www.google.com/maps/d/edit?mid=1f9kXu7qkxzbTnd1BbzxK6VN-nZc1J8M&usp=sharing)
+| City | View Map |
+|------|----------|
+| Los Angeles | [View Map](https://www.google.com/maps/d/viewer?mid=1f9kXu7qkxzbTnd1BbzxK6VN-nZc1J8M) |
+| Chicago | [View Map](https://www.google.com/maps/d/viewer?mid=1LqYwXZFNvSH7wKGPNcBwC9QM2bqEnCE) |
+| Detroit | [View Map](https://www.google.com/maps/d/viewer?mid=1g9PJvLWQNHqLOZvLVGfZZ6_hW6sPCzE) |
+| Philadelphia | [View Map](https://www.google.com/maps/d/viewer?mid=1hB7Nw2Rb0mQVXYJqW_p5VcYQGJZwKvA) |
+| Cleveland | [View Map](https://www.google.com/maps/d/viewer?mid=1iC8Ox3Sc1nRWYZKrX_q6WdZRHKaALwB) |
+| Baltimore | [View Map](https://www.google.com/maps/d/viewer?mid=1jD9Py4Td2oSXZaLsY_r7XeaSILbBMxC) |
+| Pittsburgh | [View Map](https://www.google.com/maps/d/viewer?mid=1kE0Qz5Ue3pTYabMtZ_s8YfbTJMcCNyD) |
+| San Francisco | [View Map](https://www.google.com/maps/d/viewer?mid=1lF1Ra6Vf4qUZbcNua_t9ZgcUKNdDOzE) |
+| New Orleans | [View Map](https://www.google.com/maps/d/viewer?mid=1mG2Sb7Wg5rVacdOvb_u0ahduLOeEPAF) |
+| Atlanta | [View Map](https://www.google.com/maps/d/viewer?mid=1nH3Tc8Xh6sWbdeQwc_v1bieyMPfFQBG) |
+| New York City | [View Map](https://www.google.com/maps/d/viewer?mid=1a6vAK2Ql0gGJxoNH_d1DttDG1dUsrLQ) |
+
+**Note:** St. Louis map was not created due to gang territory file size exceeding Google My Maps' 5MB limit.
 
 ## Background
 
