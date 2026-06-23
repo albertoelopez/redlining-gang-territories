@@ -1,0 +1,5 @@
+# Playwright MCP debug screenshots (leftover from browser-automation sessions)
+.playwright-mcp/
+
+# Script output (regenerable)
+map_urls.json

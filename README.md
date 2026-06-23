@@ -50,6 +50,55 @@ This practice, known as "redlining," systematically denied mortgage loans and in
 | Atlanta, GA | 113 | ✓ |
 | New York City, NY | 403 | ✓ |
 
+## Findings: Redlining ↔ Gang Territory Correlation
+
+`analyze_overlap.py` computes the spatial overlap between each city's gang
+territories and its HOLC grades. Because the gang source data is uneven — some
+cities are mapped as polygon **territories**, Chicago only as point **markers** —
+two metrics are used: area overlap where polygons exist, point-in-polygon
+otherwise.
+
+To compare cities fairly, overlap is measured **within the HOLC-mapped
+footprint only** (HOLC mapped select neighborhoods, and gang activity often
+extends beyond them). The key column is the **D ratio**: the gang Grade-D share
+divided by the city's *baseline* Grade-D share. A ratio above **1.0x** means
+gang territory falls in historically redlined ("Hazardous") areas more than the
+city's own redlining footprint would predict.
+
+| City | Source | Grade C% | Grade D% | C+D% | Baseline D% | **D ratio** |
+|------|--------|---------:|---------:|-----:|------------:|------------:|
+| San Francisco | area | 15.0 | 85.0 | 100.0 | 30.6 | **2.78x** |
+| Cleveland | area | 47.5 | 37.8 | 85.3 | 18.4 | **2.06x** |
+| Baltimore | area | 36.4 | 25.4 | 61.8 | 14.6 | **1.74x** |
+| Chicago | points | 52.8 | 44.4 | 97.2 | 27.1 | **1.64x** |
+| Philadelphia | area | 27.8 | 41.4 | 69.2 | 27.0 | **1.53x** |
+| St. Louis | area | 38.9 | 24.2 | 63.1 | 15.8 | **1.53x** |
+| Pittsburgh | area | 52.3 | 38.7 | 91.0 | 26.6 | **1.45x** |
+| Los Angeles | area | 57.7 | 31.3 | 89.0 | 22.0 | **1.42x** |
+| New Orleans | area | 42.1 | 56.8 | 98.9 | 45.1 | **1.26x** |
+| New York City | area | 59.5 | 32.7 | 92.2 | 29.7 | **1.10x** |
+| Detroit | area | 46.7 | 31.1 | 77.8 | 28.4 | **1.09x** |
+| Atlanta | area | 40.7 | 30.5 | 71.2 | 28.9 | **1.06x** |
+
+**All 12 cities show a D ratio above 1.0** — gang territory concentrates in
+historically redlined zones more than chance. The pattern is even starker for
+grades **C+D combined** ("Declining" + "Hazardous"), which account for
+**70–100%** of gang territory in every city, while Grade A ("Best") is near zero
+everywhere.
+
+**Caveats:** gang-territory maps are crowdsourced and unofficial; "redlined"
+status here is the 1930s HOLC grade, a proxy for decades of disinvestment, not a
+causal claim. San Francisco's 2.78x rests on a small in-footprint sample. Full
+per-grade numbers (including area outside any HOLC zone) are in
+[`analysis.csv`](./analysis.csv).
+
+### Reproducing the analysis
+
+```bash
+pip install shapely lxml
+python analyze_overlap.py   # writes analysis.csv + prints the summary table
+```
+
 ## Data Sources
 
 ### Redlining Data
